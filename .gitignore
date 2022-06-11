@@ -3,3 +3,6 @@ css/
 
 # ignore node_modules/
 node_modules/
+
+# source 
+source.png
